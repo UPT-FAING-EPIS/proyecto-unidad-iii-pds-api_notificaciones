@@ -1,4 +1,4 @@
-# API gateway microservices
+# API Notifications
 npm install express axios body-parser mongoose mysql amqplib nodemailer
 
 
